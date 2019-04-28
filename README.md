@@ -24,6 +24,7 @@ c9: talking to passenger
   
   
 ![](https://raw.githubusercontent.com/TachibanaYoshino/State-Farm-Distracted-Driver-Detect-Pytorch/master/test_output/img_13.jpg?token=AIZ4GWOSUUQ64FREA4XKCCS4YUXVM "")  
+
 ### 1、3 Method used  
 Training and identification with MobileNet V2  
 ### 1、4 Dataset download address:  
