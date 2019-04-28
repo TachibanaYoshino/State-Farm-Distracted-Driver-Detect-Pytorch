@@ -24,9 +24,9 @@ c9: talking to passenger
 ![](D:\cc\DAR\dar\PyTorch_DistractedDriverDetection\test_output\V2_m\img_64.jpg "")  
 ### 1、3 Method used  
 Training and identification with MobileNet V2  
-### 1、4 Dataset download address:
-https://www.kaggle.com/c/state-farm-distracted-driver-detection/data  
----
+### 1、4 Dataset download address:  
+*https://www.kaggle.com/c/state-farm-distracted-driver-detection/data*
+***
 ## 2、Project configuration  
 ---  
 ### 2、1 Operating environment  
@@ -48,4 +48,4 @@ https://www.kaggle.com/c/state-farm-distracted-driver-detection/data
 + *python train.py* 
 
 2、3、2 testing  
-+ Select the model to load, write test.py, then *python test.py*
++ Select the model to load, write it to test.py, then,  then  *python test.py*
