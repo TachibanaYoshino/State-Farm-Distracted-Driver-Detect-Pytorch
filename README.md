@@ -38,7 +38,7 @@ Training and identification with MobileNet V2
 >------train
   
 ### 2、2 Python dependency package  
-> pytorch  
+> pytorch1.0.1  
 > easydict  
 > torchvision  
 > PIL  
