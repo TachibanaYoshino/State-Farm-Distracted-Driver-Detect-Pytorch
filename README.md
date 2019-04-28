@@ -21,7 +21,6 @@ c6: drinking
 c7: reaching behind  
 c8: hair and makeup  
 c9: talking to passenger  
-
 ![](D:\cc\DAR\dar\PyTorch_DistractedDriverDetection\test_output\V2_m\img_64.jpg "")  
 ### 1、3 Method used  
 Training and identification with MobileNet V2  
@@ -37,15 +36,16 @@ https://www.kaggle.com/c/state-farm-distracted-driver-detection/data
 >------train
   
 ### 2、2 Python dependency package  
-> pytorch
-> easydict
-> torchvision
-> PIL
-> python-opencv
-> pip install --upgrade git+https://github.com/Lyken17/pytorch-OpCounter.git  
+> pytorch  
+> easydict  
+> torchvision  
+> PIL  
+> python-opencv  
+> pip install --upgrade git+https://github.com/Lyken17/pytorch-OpCounter.git    
   
 ### 2、3 Running  
 2、3、1 training  
-+ *python train.py*  
++ *python train.py* 
+
 2、3、2 testing  
 + Select the model to load, write test.py, then *python test.py*
