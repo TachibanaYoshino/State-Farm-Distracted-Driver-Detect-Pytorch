@@ -21,7 +21,7 @@ c6: drinking
 c7: reaching behind  
 c8: hair and makeup  
 c9: talking to passenger  
-![](D:\cc\DAR\dar\PyTorch_DistractedDriverDetection\test_output\V2_m\img_64.jpg "")  
+![](https://raw.githubusercontent.com/TachibanaYoshino/State-Farm-Distracted-Driver-Detect-Pytorch/master/test_output/img_13.jpg?token=AIZ4GWOSUUQ64FREA4XKCCS4YUXVM "")  
 ### 1、3 Method used  
 Training and identification with MobileNet V2  
 ### 1、4 Dataset download address:  
