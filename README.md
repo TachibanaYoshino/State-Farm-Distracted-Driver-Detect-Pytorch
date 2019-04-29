@@ -51,4 +51,4 @@ Training and identification with MobileNet V2
 + *python train.py* 
 
 2、3、2 testing  
-+ Select the model to load, write it to test.py, then,  then  *python test.py*
++ Select the model to load, write it to test.py, then   *python test.py*
