@@ -23,7 +23,7 @@ c8: hair and makeup
 c9: talking to passenger  
   
   
-![](https://raw.githubusercontent.com/TachibanaYoshino/State-Farm-Distracted-Driver-Detect-Pytorch/master/test_output/img_13.jpg "test_output")  
+![](https://github.com/TachibanaYoshino/State-Farm-Distracted-Driver-Detect-Pytorch/master/test_output/img_13.jpg "test_output")  
 
 ### 1、3 Method used  
 Training and identification with MobileNet V2  
